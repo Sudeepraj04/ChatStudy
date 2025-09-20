@@ -131,7 +131,7 @@ server.close()
 
 ## OUTPUT:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/3387a89a-890f-4322-900f-9aed4ceee866)
 
 ## Result:
 
